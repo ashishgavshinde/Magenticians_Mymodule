@@ -1,5 +1,5 @@
 {
-    "name": "magenticians/mymodule",
+    "name": "magenticians/module-mymodule",
     "description": "Magenticians Mymodule",
     "type": "magento2-module",
     "version": "2.1.5",
